@@ -1,5 +1,6 @@
 # Project description
-Eco cosmetics Landing Page is a training project. This page displays information about the products sold by this store. Also on the page there is a navigation block, a link to the basket where the form is filled in, several blocks that describe the products and prices, contacts and a form to fill out
+Eco cosmetics Landing Page is a training project. This page displays information about the products sold by this store. Also on the page there is a navigation block, a link to the basket where the form is filled in, several blocks that describe the products and prices, contacts and a form to fill out.
+This page is also adapted to any screen size. So it will be convenient to watch both on big screens and on mobile devices
 
 # The technologies used in the project
 - HTML/CSS
